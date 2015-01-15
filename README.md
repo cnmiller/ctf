@@ -1,3 +1,3 @@
-#Welcome to Chase's CTF Writeups
+#Welcome to Chase's CTF Writeups!
 
-##Select the competition from the list above
+##Select a competition from the list above.
