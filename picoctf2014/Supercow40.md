@@ -13,7 +13,9 @@ To solve this, I created symbolic links to supercow and flag.txt. Inorder to byp
 
 Feeding flag.cow into the supercow utility reveals the flag (as seen below).
 
+ ___________________________
 < cows_drive_mooooving_vans >
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
