@@ -28,7 +28,7 @@ See files filename-key.csv, filename-char_used-perc_printable.csv
 
 ```
 
-Looking through the output files, all of them except 32.out were binary files. Below is the contents of 32.out.
+Using the less * command allows me to look through the output files, all of them except 32.out were binary files. Below is the contents of 32.out.
 
 ```
 your flag is: 1b72210a293170905ae740686d3d7f72313c523a
