@@ -1,6 +1,6 @@
 #Supercow - 40
 
-For this problem,  we are given a untility that prints .cow files. It is located in the /home/daedalus directory along with the files:
+For this problem,  we are given a utility that prints .cow files. It is located in the /home/daedalus directory along with the files:
 
 * flag.txt
 * hint.cow
